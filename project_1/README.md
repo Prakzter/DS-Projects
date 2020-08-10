@@ -60,6 +60,7 @@ This study examines the state scores and other external data to determine the va
 - Conclusions and Recommendations
 <br>
 <br>
+
 ## Recommendation:
 The state of Oregon has ACT and SAT participation rates between 40-50% consistently across both 2017 and 2018. 
 The state currently neither has a requirement for either test nor does it fund students to take up any of the tests. This gives a clear indication that students are impartial to either test and might be more inclined to take one test over the other with the possiblity of funding.
