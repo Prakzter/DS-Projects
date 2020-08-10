@@ -1,4 +1,5 @@
-# ![](data/title.jpg) Project 1: Analysis of SAT & ACT scores across US states
+![](data/title.jpg) 
+# Project 1: Analysis of SAT & ACT scores across US states
 
 
 ## Problem Statement
@@ -14,7 +15,8 @@ This study examines the state scores and other external data to determine the va
     -  For example, Ohio state had made either ACT or SAT compulsory for high school students. This resulted both test participation rates to increase.
 
 2) Overall SAT scores improved in year 2018 despite the higher participation rate comparing to previous year, while ACT score remains relatively stable.
-The cost of SAT test is relatively high comparing to ACT test which might affect which tests states would sponsor.
+
+3) The cost of SAT test is relatively high comparing to ACT test which might affect which tests states would sponsor.
 
 
 ## Contents:
