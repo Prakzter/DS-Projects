@@ -3,21 +3,22 @@
 
 
 ## Problem Statement
-Analyze trends in SAT & ACT data from 2017 - 2018 and make recommendations to increase participation in the most appropriate test in at least one state.
+Analyze trends in SAT & ACT data from 2017 & 2018 and make recommendations to increase participation in the SATs of one particular state
 
 <br>
 
 ## Executive Summary
-This study examines the state scores and other external data to determine the various factors that influence the participation rates across states.
+The new format for the SAT was released in March 2016. As part of College Board - the organization that administers the SAT - our team has tracked statewide participation to make recommendations where money should be best spent to improve SAT participation rates. This report uses the provided data and outside research to propose how College Board might work to increase the participation rate in the <b>state of Virginia</b>.
 
 <u>Here are some key findings:</u>
 
-1) A 100% participation rate can only be acheived by the state making either test mandatory and providing the necessary funding to make it affordable for students.
-    -  For example, Ohio state had made either ACT or SAT compulsory for high school students. This resulted both test participation rates to increase.
-
+1) A 100% participation rate can only be achieved by the state making either test mandatory and providing the necessary funding to make it affordable for students.
+* For example, Ohio state had made either ACT or SAT compulsory for high school students. This resulted both test participation rates to increase YOY.
+    
 2) Overall SAT scores improved in year 2018 despite the higher participation rate comparing to previous year, while ACT score remains relatively stable.
 
-3) The cost of SAT test is relatively high comparing to ACT test which might affect which tests states would sponsor.
+3) Factors such as choosing to go to a neighbouring state influenced the preference between SAT and ACT.
+* For example, in South and North Carolina, even though they had 100 % ACT participation due to state funding, their SAT participation was above 50%, indicating that students were preparing to enrol in colleges in the upper East Coast
 
 <br>
 
@@ -62,20 +63,16 @@ This study examines the state scores and other external data to determine the va
 <br>
 
 ## Recommendation:
-The state of Oregon has ACT and SAT participation rates between 40-50% consistently across both 2017 and 2018. 
-The state currently neither has a requirement for either test nor does it fund students to take up any of the tests. This gives a clear indication that students are impartial to either test and might be more inclined to take one test over the other with the possiblity of funding.
+The state of Virginia currently neither has a requirement for either test nor does it fund students to take up any of the tests. Given that there is a strong inclination towards SAT in the state as well as a higher graduand rate of high school students, I would recommend College Board approach a partnership with the state of Virgina to promote the SATs through the following actions:
 
-<u>I would recommend the following actions:</u>
+1) Comparing the [costs of each test](https://www.vox.com/the-goods/2019/3/28/18282453/sat-act-college-admission-testing-cost-price), the SAT is fiscally more sound for the state of Virginia to sponsor all high school students.
 
-1) Comparing the costs between SAT & ACT, the ACT is fiscally more sound for the state of Oregon to sponsor for all high school students.
+2) Create digital prep workshops or seminars to increase the student interest in the SAT and [hear success stories] from SAT alumni.(https://www.prepscholar.com/act/s/case_studies)
 
-2) Create digital prep workshops or seminars to increase the student interest in the ACT and hear sucess stories.
+3) Encouraging Virginia colleges to offer SAT sponsorships
 
-3) Encouraging Oregon colleges to offer ACT sponsorships.
 
 <br>
-<br>
 
-### ≈≈≈≈≈  Further investigation required: ≈≈≈≈≈
-More details are required on college preferences of Oregon students to confirm if students would tend to enrol in colleges within Oregon, or at other colleges of the mid-west, before endorsing the ACT campaign.
-
+##### ≈≈≈≈≈  Further investigation required: ≈≈≈≈≈
+More details are required on college preferences of Virginia students to confirm if students would tend to enrol in colleges within Virginia or the upper east coast.
