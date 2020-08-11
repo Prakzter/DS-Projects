@@ -12,7 +12,7 @@ The new format for the SAT was released in March 2016. As part of College Board 
 
 <u>Here are some key findings:</u>
 
-1) A 100% participation rate can only be achieved by the state making either test mandatory and providing the necessary funding to make it affordable for students.
+1) A higher participation rate can only be achieved by the state making either test mandatory and providing the necessary funding to make it affordable for students.
 * For example, Ohio state had made either ACT or SAT compulsory for high school students. This resulted both test participation rates to increase YOY.
     
 2) Overall SAT scores improved in year 2018 despite the higher participation rate comparing to previous year, while ACT score remains relatively stable.
@@ -63,7 +63,7 @@ The new format for the SAT was released in March 2016. As part of College Board 
 <br>
 
 ## Recommendation:
-The state of Virginia currently neither has a requirement for either test nor does it fund students to take up any of the tests. Given that there is a strong inclination towards SAT in the state as well as a higher graduand rate of high school students, I would recommend College Board approach a partnership with the state of Virgina to promote the SATs through the following actions:
+The state of Virginia currently neither has a requirement for either test nor does it fund students to take up any of the tests. Given that there is a strong inclination towards SAT in the state as well as a higher graduand rate of high school students, I would recommend College Board approach a partnership with the <b>state of Virgina</b> to promote the SATs through the following actions:
 
 1) Comparing the [costs of each test](https://www.vox.com/the-goods/2019/3/28/18282453/sat-act-college-admission-testing-cost-price), the SAT is fiscally more sound for the state of Virginia to sponsor all high school students.
 
