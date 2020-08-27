@@ -16,7 +16,7 @@ Features like having an unfinished garage interior, having a knob & tube wiring 
 If customers were interested in flipping houses (buying reasonably priced homes and refurnishing them), the neighbourhoods of Northridge Heights and Stone Brook would be of interest to potential 'investors'.
 
 
-## The Process
+## The Data Science Process
 
 ### 1. Get the Data
 The train and test sets have been provided in csv formats and at a first glance, there are several null values that would need to be imputed.
