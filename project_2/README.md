@@ -1,5 +1,9 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
+[]('datasets/logo1.jpg')    []('datasets/logo2.png')
+
+
+
 
 ## Problem Statement
 You've been recently hired at [Furman Realty](https://furmanrealty.com/central-iowa-mls-listings/) and your first work assignment is to build a model that will make the best possible prediction of home values in Ames, Iowa (Furman's product team would like to eventually turn this into a feature on their website, that homeowners can use to get an estimate of their house). You will be making a presentation to your inhouse product team about the process that led you to your final model and predictions.
@@ -9,7 +13,7 @@ You've been recently hired at [Furman Realty](https://furmanrealty.com/central-i
 
 Potential homebuyers, developers and potential investors would want to have more information on what are key features that actually contribute towards maximising the return on their investment or ensuring they don't shortchange themselves when making a sale. This is not an appraisal/definitive sale price but rather a starting point for negotations.
 
-The more obvious inferences like having a better overall quality or a bigger size having a direct impact to the sale price. However, some interesting features were discovered to add more value to the overall value. For example, having the presence of a paved driveway, using poured concrete for your foundation or having a hipped roof, is a type of roof where all sides slope downwards to the walls.
+The more obvious inferences like having a better overall quality or a bigger size having a direct impact to the sale price. However, some interesting features were discovered to add more value to the overall value. For example, having the presence of a paved driveway, using poured concrete for your foundation or having a hipped roof, which is a type of roof where all sides slope downwards to the walls.
 
 Features like having an unfinished garage interior, having a knob & tube wiring fusebox or having a carport(basically an unenclosed garage with 2 open sides) will hurt the sale value of a home.
 
