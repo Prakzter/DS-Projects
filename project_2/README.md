@@ -1,6 +1,6 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
-![]('logo1.jpg')    ![]('logo2.png')
+![]('./logo1.jpg')    ![]('logo2.png')
 
 
 
