@@ -50,7 +50,7 @@ The train and test sets have been provided in csv formats and at a first glance,
 
 
 ### 5. Answer the DS problem
-* Built an estimator for SalePrice, which at the moment has a standard deviation of approximately  **$26k** (tested against blind data) 
+* Built an estimator for SalePrice, which at the moment has an approximate error of  **$26k** from the actual sale price(RMSE from Train set: 24k) 
 * From the EDA visualisations, made recommendations on features that would add/detract value from a home
 
 
