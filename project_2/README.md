@@ -1,8 +1,6 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
-![]('./logo1.jpg')    ![]('logo2.png')
-
-
+<img src="logo1.jpg" width="300"/>    <img src="logo2.png" width="300"/>    
 
 
 ## Problem Statement
