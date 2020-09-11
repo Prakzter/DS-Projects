@@ -1,6 +1,6 @@
 # Project 3 - Text Classification Challenge
 
-![]('./logo-1.png')
+<img src="logo-1.png" width="300"/>
 
 
 
