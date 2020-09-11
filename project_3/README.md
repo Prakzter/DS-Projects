@@ -1,6 +1,6 @@
 # Project 3 - Text Classification Challenge
 
-![]('logo-1.png')
+![]('./logo-1.png')
 
 
 
