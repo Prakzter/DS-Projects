@@ -76,13 +76,11 @@ The data corpus will be extracted from 2 subreddits, by making Reddit API calls.
 ## Recommendations
 Our Multinomial Naive Bayes model using a TF-IDF vectoriser came out tops again, even slightly beating the default parameter model's MCC score. It can also be observed that the TF-IDF models generally had a better MCC score than models using CountVectoriser.
 
-This mainly could be due to the fact that TD-IDF benefits from the lemmatization. Lemmatization is also important for training word vectors, since accurate counts within the window of a word would be disrupted by an irrelevant inflection like a simple plural or present tense inflection. This is also the reason we had lemmatised our corpus across multiple parts-of-speech tags , i.e verb, noun, proverb and adjective.
-
-Based on the MCC scores, we believe the NB model would allow a good measure of generalisation that would perform relatively well on our blind data later on. However for our eventual model of choice, we would be going with the TF-SVC model, which fared a reasonable MCC score.
+This mainly could be due to the fact that TD-IDF benefits from the lemmatization. Lemmatization is also important for training word vectors, since accurate counts within the window of a word would be disrupted by an irrelevant inflection like a simple plural or present tense inflection. This is also the reason we had lemmatised our corpus across multiple parts-of-speech tags , i.e verb, noun, proverb and adjective. Based on the MCC scores, we believe the NB model would allow a good measure of generalisation that would perform relatively well on our blind data later on. However for our eventual model of choice, we would be going with the TF-SVC model, which fared a reasonable MCC score.
 
 The key factor that led us to choosing the SVC model is that Naive Bayes treats corpus terms as independent features, whereas SVC looks at the interactions between them to a certain degree. As our blind test might have more variations to the terms gathered from our subreddit, we forsee the SVC model will be better at the classification task, under a production environment.
 
 We have succesfully built a text classifier model and have throughly evaluated its performance. In our blind test, our SVC model has done tremendously well in the Stocks category, however it has misclassified 3 Real Estate posts.
 Zooming into the first misclassification, the word 'portfolio' was a strong determinant of the Stocks category and taking a look at the other 2 posts, there were very few deterministic terms in the text.
 
-There was a mention of the word 'cpf', which would be a term commonly used in Real Estate Investments locally. This underscores the need to provide more deterministic terms by feeding more local forum posts under these 2 classes, to improve the model's local context.
+There was a mention of the word 'CPF', which would be a term commonly used in Real Estate Investments locally. This underscores the need to provide more deterministic terms by feeding more local forum posts under these 2 classes, to improve the model's local context.
