@@ -20,18 +20,19 @@ Our main objective is to help Secretlab effectively understand the needs and con
     * Explored the response time of between comments and replies
     * Suggested top 5 keywords that content creators could add to their video tags and improve the SEO of their video
     * Analysed key trigger words that viewers associated with the Secretlab brand in their comments
-    * Using LDA, clustered the comments into top 6 topics
-
-    |Topic #| Topic Meaning|
-    |-------|--------------|
-    |Topic 0|Firmness of the seat causing back issues|
-    |Topic 1|Discussion on how long the chair lasts for|
-    |Topic 2|Considering between Fabric and Leather|
-    |Topic 3|How great the Omega chair is|
-    |Topic 4|Whether the lumbar support is good|
-    |Topic 5|Compliments that the video help make a purchase decision|
-    
+    * Using LDA, clustered the comments into top 6 topics    
     * Using Doc2Vec and Logistic Regression, created a comment classifier that could be utilised to tag new incoming comments and extract specific product feature feedback
+
+### Topics generated from LDA:
+|Topic #| Topic Meaning|
+|-------|--------------|
+|Topic 0|Firmness of the seat causing back issues|
+|Topic 1|Discussion on how long the chair lasts for|
+|Topic 2|Considering between Fabric and Leather|
+|Topic 3|How great the Omega chair is|
+|Topic 4|Whether the lumbar support is good|
+|Topic 5|Compliments that the video help make a purchase decision|
+
 
 <br></br>
 ***Future Recommendation:***
