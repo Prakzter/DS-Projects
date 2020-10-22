@@ -1,4 +1,4 @@
-# Capstone Project - Brand Insights for Secretlab
+# Brand Insights for Secretlab
 
 <img src="logo-1.png" width="300"/>
 

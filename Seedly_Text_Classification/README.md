@@ -1,4 +1,4 @@
-# Project 3 - Text Classification Challenge
+# Seedly Forum - Text Classification Challenge
 
 <img src="logo-1.png" width="300"/>
 

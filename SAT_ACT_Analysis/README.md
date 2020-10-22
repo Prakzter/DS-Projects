@@ -1,5 +1,5 @@
 ![](data/title.jpg) 
-# Project 1: Analysis of SAT & ACT scores across US states
+# Analysis of SAT & ACT scores across US states
 
 
 ## Problem Statement
@@ -75,4 +75,4 @@ The state of Virginia currently neither has a requirement for either test nor do
 <br>
 
 ##### ≈≈≈≈≈  Further investigation required: ≈≈≈≈≈
-More details are required on college preferences of Virginia students to confirm if students would tend to enrol in colleges within Virginia or the upper east coast.
+More details are required through on ground surveys, regarding the college preferences of Virginia students to confirm if students would tend to enrol in colleges within Virginia or the upper east coast.
