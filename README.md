@@ -1,6 +1,7 @@
+
 # Data Science Projects Portfolio 
 
- ## About me
+## About me
 
 ##### Having a decade of experience in the education and training industry focusing on outreach, industry engagement and even career coaching, I am bravely diving into the world of data science as a data analyst. 
 
