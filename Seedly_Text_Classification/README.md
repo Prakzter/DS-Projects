@@ -1,5 +1,5 @@
 # Seedly Forum - Text Classification Challenge
-### **Live Demo - ** *https://seedy-classifier.herokuapp.com*
+### Live Demo - *https://seedy-classifier.herokuapp.com*
 
 <img src="logo-1.png" width="300"/>
 
