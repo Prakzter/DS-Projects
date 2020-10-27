@@ -86,3 +86,6 @@ We have succesfully built a text classifier model and have throughly evaluated i
 Zooming into the first misclassification, the word 'portfolio' was a strong determinant of the Stocks category and taking a look at the other 2 posts, there were very few deterministic terms in the text.
 
 There was a mention of the word 'CPF', which would be a term commonly used in Real Estate Investments locally. This underscores the need to provide more deterministic terms by feeding more local forum posts under these 2 classes, to improve the model's local context.
+
+### Presentation Deck
+[View slides](Seedly.sg Text Classifier.pdf)
