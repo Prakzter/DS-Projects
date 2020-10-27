@@ -88,4 +88,4 @@ Zooming into the first misclassification, the word 'portfolio' was a strong dete
 There was a mention of the word 'CPF', which would be a term commonly used in Real Estate Investments locally. This underscores the need to provide more deterministic terms by feeding more local forum posts under these 2 classes, to improve the model's local context.
 
 ### Presentation Deck
-Click [HERE](Seedly.sg Text Classifier.pdf) to view slides.
+[Click HERE to view slides.](Seedlyslidedeck.pdf)
