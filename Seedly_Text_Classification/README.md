@@ -1,4 +1,5 @@
 # Seedly Forum - Text Classification Challenge
+### **Live Demo - ** *https://seedy-classifier.herokuapp.com*
 
 <img src="logo-1.png" width="300"/>
 
@@ -70,6 +71,7 @@ The data corpus will be extracted from 2 subreddits, by making Reddit API calls.
 
 ### 5. Answer the DS problem
 * Built an text classifier model that could distinguish, with a reasonable accuracy (>90%), between 2 classes: Real Estate and Stocks Investment
+* **DEMO-APP:** Please visit this link to view the webapp that I've deployed on Heroku demonstrating the classifier - **https://seedy-classifier.herokuapp.com**
 
 
 
