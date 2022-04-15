@@ -40,3 +40,6 @@ Our main objective is to help Secretlab effectively understand the needs and con
 1. There is a considerable amount of noise in the corpus due to the presence of comments unrelated to the brand but rather directed at the content creator or other details. A Spam/ham classifier could be built to understand and weed out these irrelevant comments to improve the final model's accuracy.
 2. Currently, we are only using the dominant topic as the document id but we could potentially pass in the top 3 topics to improve the semantic understanding of each comment and aid in a better classification between topics.  
 
+### Presentation Deck
+[View slides here](https://github.com/Prakzter/DS-Projects/blob/master/Secretlab_Brand_Insights/GA_Capstone_Prak.pdf)
+
